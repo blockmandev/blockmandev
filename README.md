@@ -2,6 +2,9 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/M90mJvfWfd5mbUuULX/giphy.gif" width="50px" style="max-width: 100%;"> Hi there, I'm Ravikash Gupat</h1>
 
+<img width="2849" height="639" alt="image" src="https://github.com/user-attachments/assets/ccc8f95e-351c-49ef-8866-c9a6ece3e7fd" />
+
+
 ---
 
 ### 💫 Tech Stack and Tools
