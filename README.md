@@ -2,7 +2,8 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/M90mJvfWfd5mbUuULX/giphy.gif" width="50px" style="max-width: 100%;"> Hi there, I'm Ravikash Gupat</h1>
 <p align="center">
-<img width="1221" height="509" alt="Daco_5012025" src="https://github.com/user-attachments/assets/6f9526a2-b912-423a-a5ac-4899f9aaada2" />
+<img width="354" height="354" alt="image" src="https://github.com/user-attachments/assets/fda28bcc-90f9-4793-a4a1-4a99446f7244" />
+
 </p>
 
 <p align="center">
