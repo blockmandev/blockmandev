@@ -1,12 +1,13 @@
 
 
 <h1 align="center"><img src="https://media.giphy.com/media/M90mJvfWfd5mbUuULX/giphy.gif" width="50px" style="max-width: 100%;"> Hi there, I'm Ravikash Gupat</h1>
+<p align="center">
+<img width="1221" height="509" alt="Daco_5012025" src="https://github.com/user-attachments/assets/6f9526a2-b912-423a-a5ac-4899f9aaada2" />
+</p>
 
-<img width="860" height="398" alt="image" src="https://github.com/user-attachments/assets/87ba044e-34b4-40f4-b15c-fe42d86f1d1b" />
-
-
+<p align="center">
 <img width="2849" height="639" alt="image" src="https://github.com/user-attachments/assets/ccc8f95e-351c-49ef-8866-c9a6ece3e7fd" />
-
+</p>
 
 ---
 
