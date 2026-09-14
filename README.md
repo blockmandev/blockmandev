@@ -1,12 +1,13 @@
-# Hi there, I'm Ravikash
+# Hi there, I'm Ravikash <img width="384" height="384" alt="image" src="https://github.com/user-attachments/assets/61ee5744-d45d-49e5-9048-e250fecf20ac" />
+
 
 > **Renaissance-class offensive security researcher with demonstrated global top-tier depth in multiple rare niches and shipped production engineering capability.**
 
 ## About Me
 
-I work across **cybersecurity**, **AI/ML**, **software protection**, and **blockchain** — with a focus on problems that demand both depth and breadth. My core work spans reverse engineering and binary analysis across Windows, macOS, Linux, Android, and iOS; software protection research on commercial protectors and virtualization systems; mobile application security including native library analysis and runtime instrumentation; and API protocol analysis with authentication internals and anti-bot research.
+I work across **cybersecurity**, **AI/ML**, **software protection**, and **blockchain** with a focus on problems that demand both depth and breadth. My core work spans reverse engineering and binary analysis across Windows, macOS, Linux, Android, and iOS software protection research on commercial protectors and virtualization systems; mobile application security including native library analysis and runtime instrumentation; and API protocol analysis with authentication internals and anti-bot research.
 
-Beyond security, I build AI-powered products, real-time data pipelines, developer tools, and scalable backend systems. My work spans from native code and assembly-level analysis to full-stack product development — I'm comfortable anywhere on the stack, and most drawn to hard engineering problems where the interesting answers live below the surface.
+Beyond security, I build AI-powered products, real-time data pipelines, developer tools, and scalable backend systems. My work spans from native code and assembly-level analysis to full-stack product development, I'm comfortable anywhere on the stack, and most drawn to hard engineering problems where the interesting answers live below the surface.
 
 I'm open to serious collaboration around **security consulting**, **software protection engineering**, **AI/ML tooling**, **data infrastructure**, and **developer automation**.
 
