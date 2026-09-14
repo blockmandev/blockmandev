@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 382" width="1200" height="382" role="img">
+<rect width="1200" height="382" rx="10" fill="#0d1117"/>
+<text x="32" y="44" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="17" font-weight="640" fill="#e6edf3">Platform coverage</text>
+<text x="32" y="63" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12" fill="#7d8590">How much of the work actually happens at each intersection.</text>
+<line x1="32" y1="72" x2="1168" y2="72" stroke="#1c2530" stroke-width="1"/>
+<text x="312.0" y="104" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12.5" fill="#7d8590">Windows</text>
+<text x="452.0" y="104" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12.5" fill="#7d8590">macOS</text>
+<text x="592.0" y="104" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12.5" fill="#7d8590">Linux</text>
+<text x="732.0" y="104" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12.5" fill="#7d8590">Android</text>
+<text x="872.0" y="104" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12.5" fill="#7d8590">iOS</text>
+<text x="1012.0" y="104" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12.5" fill="#7d8590">WASM</text>
+<text x="232" y="140" text-anchor="end" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13.5" fill="#e6edf3">Reverse engineering</text>
+<rect x="250" y="118" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="250" y="118" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="1.0"/>
+<rect x="390" y="118" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="390" y="118" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="1.0"/>
+<rect x="530" y="118" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="530" y="118" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="1.0"/>
+<rect x="670" y="118" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="670" y="118" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="1.0"/>
+<rect x="810" y="118" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="810" y="118" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="1.0"/>
+<rect x="950" y="118" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="950" y="118" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="0.62"/>
+<text x="232" y="180" text-anchor="end" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13.5" fill="#e6edf3">Dynamic instrumentation</text>
+<rect x="250" y="158" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="250" y="158" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="1.0"/>
+<rect x="390" y="158" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="390" y="158" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="0.62"/>
+<rect x="530" y="158" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="530" y="158" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="1.0"/>
+<rect x="670" y="158" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="670" y="158" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="1.0"/>
+<rect x="810" y="158" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="810" y="158" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="0.62"/>
+<rect x="950" y="158" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="950" y="158" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="0.32"/>
+<text x="232" y="220" text-anchor="end" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13.5" fill="#e6edf3">Devirtualization</text>
+<rect x="250" y="198" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="250" y="198" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="1.0"/>
+<rect x="390" y="198" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="390" y="198" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="0.62"/>
+<rect x="530" y="198" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="530" y="198" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="0.62"/>
+<rect x="670" y="198" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="670" y="198" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="0.62"/>
+<rect x="810" y="198" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="810" y="198" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="0.32"/>
+<rect x="950" y="198" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="950" y="198" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="0.32"/>
+<text x="232" y="260" text-anchor="end" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13.5" fill="#e6edf3">Protocol / API analysis</text>
+<rect x="250" y="238" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="250" y="238" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="1.0"/>
+<rect x="390" y="238" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="390" y="238" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="1.0"/>
+<rect x="530" y="238" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="530" y="238" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="1.0"/>
+<rect x="670" y="238" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="670" y="238" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="1.0"/>
+<rect x="810" y="238" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="810" y="238" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="0.62"/>
+<rect x="950" y="238" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="950" y="238" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="0.62"/>
+<text x="232" y="300" text-anchor="end" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13.5" fill="#e6edf3">Native library dev</text>
+<rect x="250" y="278" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="250" y="278" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="1.0"/>
+<rect x="390" y="278" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="390" y="278" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="0.62"/>
+<rect x="530" y="278" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="530" y="278" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="1.0"/>
+<rect x="670" y="278" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="670" y="278" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="1.0"/>
+<rect x="810" y="278" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="810" y="278" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="0.62"/>
+<rect x="950" y="278" width="124" height="34" rx="5" fill="#1a2028"/>
+<rect x="950" y="278" width="124" height="34" rx="5" fill="#1f6feb" fill-opacity="0.62"/>
+<text x="200" y="358" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="11.5" fill="#4b5563">less</text>
+<rect x="270" y="346" width="16" height="16" rx="3.5" fill="#1a2028"/>
+<rect x="270" y="346" width="16" height="16" rx="3.5" fill="#1f6feb" fill-opacity="0.12"/>
+<rect x="290" y="346" width="16" height="16" rx="3.5" fill="#1a2028"/>
+<rect x="290" y="346" width="16" height="16" rx="3.5" fill="#1f6feb" fill-opacity="0.32"/>
+<rect x="310" y="346" width="16" height="16" rx="3.5" fill="#1a2028"/>
+<rect x="310" y="346" width="16" height="16" rx="3.5" fill="#1f6feb" fill-opacity="0.62"/>
+<rect x="330" y="346" width="16" height="16" rx="3.5" fill="#1a2028"/>
+<rect x="330" y="346" width="16" height="16" rx="3.5" fill="#1f6feb" fill-opacity="1.0"/>
+<text x="360" y="358" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="11.5" fill="#4b5563">more</text>
+</svg>
