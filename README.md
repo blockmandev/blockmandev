@@ -1,4 +1,4 @@
-# Hi there, I'm Ravikash <img width="384" height="384" alt="image" src="https://github.com/user-attachments/assets/61ee5744-d45d-49e5-9048-e250fecf20ac" />
+# Hi there, I'm Ravikash <img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" width="30px" alt="GitHub gif"></h1>
 
 
 > **Renaissance-class offensive security researcher with demonstrated global top-tier depth in multiple rare niches and shipped production engineering capability.**
