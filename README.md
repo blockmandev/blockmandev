@@ -1,7 +1,4 @@
-
-
-<h1 align="center"><img src="https://media.giphy.com/media/M90mJvfWfd5mbUuULX/giphy.gif" width="50px" style="max-width: 100%;"> Hi there, I'm Ravikash Gupat</h1>
-
+<h1>Hi There, I'm Ravikash <img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" width="30px" alt="GitHub gif"></h1>
 
 <p align="center">
 <img width="2849" height="639" alt="image" src="https://github.com/user-attachments/assets/ccc8f95e-351c-49ef-8866-c9a6ece3e7fd" />
@@ -9,84 +6,140 @@
 
 ---
 
-### 💫 Tech Stack and Tools
+> **Renaissance-class offensive security researcher with demonstrated global top-tier depth in multiple rare niches and shipped production engineering capability.**
 
-| ![][h-design]   | ![][design-sketch] ![][design-figma] ![][design-blender]  ![][design-stable-diffusion] ![][design-live2d]                                                                                 |
-| :-------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![][h-frontend] | ![][frontend-react] ![][frontend-nextjs] ![][frontend-zustand] ![][frontend-react-spring] ![][frontend-antd] ![][frontend-styled] ![][frontend-umi] ![][frontend-dumi] ![][frontend-electron] ![][frontend-three] ![][frontend-react-three]     | 
-| ![][h-backend]  | ![][backend-node]  ![][backend-sqlite] ![][backend-mongodb] ![][backend-nginx] ![][backend-egg]                                                    |
-| ![][h-devops]   |  ![][ops-docker] ![][ops-github-action] ![][ops-semantic-release] ![][ops-gitmoji]  ![][ops-vercel] ![][ops-prettier] ![][ops-eslint] ![][ops-stylelint] ![][ops-commitlint] ![][ops-changelog]  |
-| ![][h-ide]      | ![][ide-webstorm] ![][ide-vscode] ![][ide-sublime]                                                                                                                                      |
-| ![][h-os]       | ![][os-mac] ![][os-win] ![][os-ubuntu]                                                                                                                                                    |
-| ![][h-shell]    | ![][shell-iterm] ![][shell-terminal] ![][shell-oh-my-posh]                                                                                                                                                                      |
+## About Me
 
+I work across **cybersecurity**, **AI/ML**, **software protection**, and **blockchain** — with a focus on problems that demand both depth and breadth. My core work spans reverse engineering and binary analysis across Windows, macOS, Linux, Android, and iOS; software protection research on commercial protectors and virtualization systems; mobile application security including native library analysis and runtime instrumentation; and API protocol analysis with authentication internals and anti-bot research.
 
----
+Beyond security, I build AI-powered products, real-time data pipelines, developer tools, and scalable backend systems. My work spans from native code and assembly-level analysis to full-stack product development — I'm comfortable anywhere on the stack, and most drawn to hard engineering problems where the interesting answers live below the surface.
 
-<b>❤️ Social Media</b>
+I'm open to serious collaboration around **security consulting**, **software protection engineering**, **AI/ML tooling**, **data infrastructure**, and **developer automation**.
 
-| ![](/assets/left.svg) | ![](/assets/right.svg)|
-| --- | --- |
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-E34F26?style=for-the-badge&logo=hackaday&logoColor=white" alt="Cybersecurity">
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=white" alt="AI ML">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fwakapi.dev%2Fapi%2Fcompat%2Fshields%2Fv1%2Ftanu1337%2Finterval%3Aany&style=for-the-badge&color=1f6feb&label=Coding%20Time&logo=wakatime&logoColor=white" alt="Coding Time">
+  <img src="https://komarev.com/ghpvc/?username=blockmandev&style=for-the-badge&color=1f6feb&label=Profile%20Views" alt="Profile Views">
+</p>
 
-<details>
-  <summary>👀 github stats</summary>
+## Where the Work Goes :dart:
 
-  <b></b>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/skills-radar-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/skills-radar-light.svg" />
+    <img width="49%" src="./profile/skills-radar-dark.svg" alt="Depth across six core domains" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/skills-focus-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/skills-focus-light.svg" />
+    <img width="49%" src="./profile/skills-focus-dark.svg" alt="Share of a typical month by track" />
+  </picture>
+</p>
 
-![Rdmclin2's github stats](https://github-readme-stats.vercel.app/api?username=rdmclin2&show_icons=true&theme=dracula) 
+## Languages :keyboard:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdmclin2&layout=compact&theme=dracula)
- 
-</details>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/skills-langs-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/skills-langs-light.svg" />
+    <img width="100%" src="./profile/skills-langs-dark.svg" alt="Language depth by family" />
+  </picture>
+</p>
 
+## Platform Coverage :globe_with_meridians:
 
-<!-- SHIELD GROUP -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/skills-platforms-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/skills-platforms-light.svg" />
+    <img width="100%" src="./profile/skills-platforms-dark.svg" alt="Capability by platform" />
+  </picture>
+</p>
 
-[backend-egg]: https://img.shields.io/badge/-Egg-000?style=flat-square&logoColor=white
-[backend-mongodb]: https://img.shields.io/badge/-MongoDB-000?style=flat-square&logoColor=white&logo=mongodb
-[backend-nginx]: https://img.shields.io/badge/-Nginx-000?style=flat-square&logoColor=white&logo=nginx
-[backend-node]: https://img.shields.io/badge/-Node.js-000?style=flat-square&logoColor=white&logo=node.js
-[backend-sqlite]: https://img.shields.io/badge/-SQLite-000?style=flat-square&logoColor=white&logo=sqlite
-[design-blender]: https://img.shields.io/badge/-Blender-000?style=flat-square&logoColor=white&logo=blender
-[design-figma]: https://img.shields.io/badge/-Figma-000?style=flat-square&logoColor=white&logo=figma
-[design-live2d]: https://img.shields.io/badge/-Live2D-000?style=flat-square
-[design-sketch]: https://img.shields.io/badge/-Sketch-000?style=flat-square&logoColor=white&logo=sketch
-[design-stable-diffusion]: https://img.shields.io/badge/-🤗_Stable_Diffusion-000?style=flat-square&logoColor=white
-[frontend-antd]: https://img.shields.io/badge/-Ant_Design-000?style=flat-square&logoColor=white&logo=ant-design
-[frontend-dumi]: https://img.shields.io/badge/-DUMI-000?style=flat-square
-[frontend-electron]: https://img.shields.io/badge/-Electron-000?style=flat-square&logoColor=white&logo=electron
-[frontend-nextjs]: https://img.shields.io/badge/-Next.js-black?logo=nextdotjs&style=flat-square
-[frontend-react]: https://img.shields.io/badge/-React-000?style=flat-square&logoColor=white&logo=react
-[frontend-react-spring]: https://img.shields.io/badge/-✌️_React_Spring-000?style=flat-square
-[frontend-react-three]: https://img.shields.io/badge/-🇨🇭_React_Three-000?style=flat-square
-[frontend-styled]: https://img.shields.io/badge/-Styled_Components-000?style=flat-square&logo=styled-components&logoColor=white
-[frontend-three]: https://img.shields.io/badge/-Three.js-000?style=flat-square&logoColor=white&logo=threedotjs
-[frontend-umi]: https://img.shields.io/badge/-UMI-000?style=flat-square&logo=umami
-[frontend-zustand]: https://img.shields.io/badge/-🐻_Zustand-000?style=flat-square
-[h-backend]: https://img.shields.io/badge/-BACKEND-000?style=flat-square
-[h-design]: https://img.shields.io/badge/-DESIGN-000?style=flat-square
-[h-devops]: https://img.shields.io/badge/-DEVOPS-000?style=flat-square
-[h-frontend]: https://img.shields.io/badge/-FRONTEND-000?style=flat-square
-[h-ide]: https://img.shields.io/badge/-IDE-000?style=flat-square
-[h-os]: https://img.shields.io/badge/-OS-000?style=flat-square
-[h-other]: https://img.shields.io/badge/-OTHER-000?style=flat-square
-[h-shell]: https://img.shields.io/badge/-SHELL-000?style=flat-square
-[ide-sublime]: https://img.shields.io/badge/-Sublime-000?style=flat-square&logoColor=white&logo=sublimetext
-[ide-vscode]: https://img.shields.io/badge/-VS_Code-000?style=flat-square&logoColor=white&logo=visualstudiocode
-[ide-webstorm]: https://img.shields.io/badge/-Webstorm-000?style=flat-square&logoColor=white&logo=webstorm
-[ops-changelog]: https://img.shields.io/badge/-Conventional_Changelog-000?style=flat-square&logoColor=white&logo=conventionalcommits
-[ops-commitlint]: https://img.shields.io/badge/-Commitlint-000?style=flat-square&logoColor=white&logo=commitlint
-[ops-docker]: https://img.shields.io/badge/-Docker-000?style=flat-square&logoColor=white&logo=docker
-[ops-eslint]: https://img.shields.io/badge/-ESlint-000?style=flat-square&logoColor=white&logo=eslint
-[ops-github-action]: https://img.shields.io/badge/-GitHub_Actions-000?style=flat-square&logoColor=white&logo=github
-[ops-gitmoji]: https://img.shields.io/badge/-😉_Gitmoji_Commit_Workflow-000?style=flat-square
-[ops-prettier]: https://img.shields.io/badge/-Prettier-000?style=flat-square&logoColor=white&logo=prettier
-[ops-semantic-release]: https://img.shields.io/badge/-Semantic_Release-000?style=flat-square&logoColor=white&logo=semanticrelease
-[ops-stylelint]: https://img.shields.io/badge/-Stylelint-000?style=flat-square&logoColor=white&logo=stylelint
-[ops-vercel]: https://img.shields.io/badge/-Vercel-000?style=flat-square&logoColor=white&logo=vercel
-[os-mac]: https://img.shields.io/badge/-MacOS-000?style=flat-square&logoColor=white&logo=apple
-[os-ubuntu]: https://img.shields.io/badge/-Ubuntu-000?style=flat-square&logoColor=white&logo=ubuntu
-[os-win]: https://img.shields.io/badge/-Win11-000?style=flat-square&logoColor=white&logo=windows11
-[shell-iterm]: https://img.shields.io/badge/-iTerm-000?style=flat-square&logoColor=white&logo=iterm2
-[shell-oh-my-posh]: https://img.shields.io/badge/-Oh_My_Posh-000?style=flat-square&logoColor=white
+## Coding Activity :stopwatch:
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/wakatime-merged-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/wakatime-merged-light.svg" />
+    <img width="49%" src="./profile/wakatime-merged-dark.svg" alt="Wakapi Weekly Activity Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/wakatime-rank-speed-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/wakatime-rank-speed-light.svg" />
+    <img width="49%" src="./profile/wakatime-rank-speed-dark.svg" alt="Wakapi Rank and Speedometer Stats" />
+  </picture>
+</p>
+
+## Toolchain :wrench:
+
+The software I actually have open, and what I build on top of.
+
+| | |
+|---|---|
+| **Analysis** | IDA Pro · Ghidra · Binary Ninja · x64dbg · LLDB · Hopper · Frida · Wireshark |
+| **Backend** | Node.js · NestJS · Express · FastAPI · Flask · Django · .NET · GraphQL |
+| **Frontend** | React · Next.js · React Native · Flutter · Tailwind · Vite · Webpack |
+| **Data** | PostgreSQL · MongoDB · Redis · SQLite · MySQL · Cassandra · Elasticsearch · Snowflake |
+| **Infra** | Docker · Linux · Nginx · Cloudflare Workers · AWS · Azure · Google Cloud |
+
+## GitHub Stats :chart_with_upwards_trend:
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg" />
+    <img width="49%" src="./profile/stats-dark.svg" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/streak-light.svg" />
+    <img width="49%" src="./profile/streak-dark.svg" alt="GitHub Streak" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg" />
+    <img width="49%" src="./profile/top-langs-dark.svg" alt="Top Languages" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/wakapi-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/wakapi-light.svg" />
+    <img width="49%" src="./profile/wakapi-dark.svg" alt="Time by Language" />
+  </picture>
+</p>
+
+## Contribution Activity :zap:
+
+<p align="center">
+  <a href="https://github.com/blockmandev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graphkayan.vercel.app/graph?username=blockmandev&bg_color=0d1117&color=c9d1d9&title_color=58a6ff&line=10a37f&point=f59e0b&area=true&area_color=0e7490&hide_border=true&custom_title=Contribution%20Activity" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graphkayan.vercel.app/graph?username=blockmandev&bg_color=f8fafc&color=1f2937&title_color=1f6feb&line=0e7490&point=f59e0b&area=true&area_color=10a37f&hide_border=true&custom_title=Contribution%20Activity" />
+      <img width="100%" src="https://github-readme-activity-graphkayan.vercel.app/graph?username=blockmandev&bg_color=0d1117&color=c9d1d9&title_color=58a6ff&line=10a37f&point=f59e0b&area=true&area_color=0e7490&hide_border=true&custom_title=Contribution%20Activity" />
+    </picture>
+  </a>
+</p>
+
+## Stargazers :earth_asia:
+
+<p align="center">
+  <img width="100%" src="./profile/stargazers-worldmap.svg" alt="Stargazers Around the World" />
+</p>
+
+## Selected Work :file_folder:
+
+- [watchman](https://github.com/incordai/watchman) — local-first memory, governance, and code-audit engine for AI agents.
+
+## Let's Connect :handshake:
+
+<a href="https://github.com/blockmandev"><img src="https://img.shields.io/badge/GitHub-blockmandev-F38020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/blockmandev?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20Work-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
+<a href="https://gist.github.com/blockmandev"><img src="https://img.shields.io/badge/Gists-Public%20Notes-8957e5?style=for-the-badge&logo=github&logoColor=white" alt="Gists"></a>
+<a href="https://github.com/blockmandev"><img src="https://img.shields.io/badge/Joined-October%202017-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Joined October 2017"></a>
+
 [shell-terminal]: https://img.shields.io/badge/-Windows_Terminal-000?style=flat-square&logoColor=white&logo=windowsterminal
