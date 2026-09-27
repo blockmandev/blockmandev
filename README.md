@@ -1,7 +1,21 @@
-# Hi there, I'm Ravikash <img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" width="30px" alt="GitHub gif"></h1>
 <img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/a444e5db-b50f-4ed2-a026-1069eae36d13" />
+# Hi there, I'm Ravikash  AI Engineer <img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" width="30px" alt="GitHub gif"></h1>
 
+Designs and ships production AI systems that connect large language models to real products, private data, and multi-step workflows.
 
+### Core Competencies
+
+**Application Integration**
+Integrates large language models such as GPT, Claude, and Gemini into user-facing products, including conversational chatbots, semantic search engines, and automated business workflows. Handles API orchestration, streaming responses, tool/function calling, rate limiting, fallback strategies across providers, and cost/latency optimization in production.
+
+**System Architecture (RAG)**
+Architects Retrieval-Augmented Generation pipelines that let models securely query private company data. Builds ingestion and chunking pipelines, generates embeddings, and manages vector databases (e.g., Pinecone, Weaviate, Qdrant, pgvector). Implements hybrid search, reranking, metadata filtering, and access controls so responses stay grounded, accurate, and permission-aware.
+
+**Prompt & Context Engineering**
+Optimizes how instructions, data, and context are delivered to models to improve accuracy and reduce hallucinations. Designs system prompts, few-shot examples, and structured output schemas; manages context-window budgets; and builds evaluation suites to measure and iterate on output quality, consistency, and reliability.
+
+**Orchestration & Multi-Agent Systems**
+Builds complex, stateful AI applications and multi-agent workflows using frameworks such as LangChain and LangGraph. Designs agent roles, tool integrations, memory, routing logic, and human-in-the-loop checkpoints to automate multi-step reasoning and decision-making tasks end to end.
 
 > **Renaissance-class offensive security researcher with demonstrated global top-tier depth in multiple rare niches and shipped production engineering capability.**
 
