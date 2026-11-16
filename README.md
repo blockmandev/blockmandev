@@ -1,4 +1,4 @@
-<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/a444e5db-b50f-4ed2-a026-1069eae36d13" />
+<img width="1200" height="630" alt="AI" src="https://github.com/user-attachments/assets/f9bafe01-12c7-4a0f-a437-281f34926a62" />
 
 # Hi there, I'm Ravikash  AI Engineer <img src="https://github.com/blockmandev/blockmandev/blob/main/profile/working.gif" width="50px" alt="GitHub gif"></h1>
 
